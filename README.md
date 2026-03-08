@@ -39,3 +39,6 @@ Once you have opened a column choice menu, you may find and interact with the fo
    3. Hide all columns: Allows you to hide all the columns, useful if you have a lot of columns and you only need 1-2 to be displayed
    4. Export CSV: This option attempts to save your file to a chosen location 
 ![options](media/all_options.png)
+
+>[!Important]
+>The dataset you see in my screenshot does not belong to me and was found on Kaggle [here](https://www.kaggle.com/datasets/venujathu/braille-literacy-and-accessibility-for-blind-persons)
